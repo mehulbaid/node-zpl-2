@@ -5,9 +5,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "express": "^4.17.1",
     "typescript": "^4.4.3"
   },
   "devDependencies": {
     "@types/node": "^16.9.1"
-  }
+  },
+  "_id": "@mehulbaid/node-zplII@1.0.0"
 }
